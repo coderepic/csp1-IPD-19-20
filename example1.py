@@ -24,4 +24,5 @@ def move(my_history, their_history, my_score, their_score):
     def check_collude(their_history):
       if their_history[their_history.len()] == 'c' or their_history[their_history.len() - 1] == 'c':
         return "b"
-c    check_collude(their_history)
+    
+    check_collude(their_history)

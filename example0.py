@@ -19,7 +19,9 @@ def move(my_history, their_history, my_score, their_score):
     The most recent round is my_history[-1] and their_history[-1]
     
     Returns 'c' or 'b' for collude or betray.
-ways def check_betray(their_history):
+'''
+
+    def check_betray(their_history):
       if their_history[their_history.len()] == 'b' or their_history[their_history.len() - 1] == 'b':
         return "b"
 
