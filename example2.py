@@ -6,12 +6,13 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'E2'
-strategy_name = 'Alternate'
-strategy_description = 'Collude, then alternate.'
+team_name = 'MegaRcheat'
+strategy_name = 'Random'
+strategy_description = 'Picks a random number between 1 and 2 in order to determine the action'
+import random
     
 def move(my_history, their_history, my_score, their_score):
-    '''Make my move based on the history with this player.
+    '''Make my move by importing a random number.
     
     history: a string with one letter (c or b) per round that has been played with this opponent.
     their_history: a string of the same length as history, possibly empty. 
@@ -20,9 +21,10 @@ def move(my_history, their_history, my_score, their_score):
     
     Returns 'c' or 'b' for collude or betray.
     '''
-    # This player colludes on even numbered rounds (first round is round #0).
-    if len(my_history)%2 == 0:
-        return 'c'
-    else:
-        return 'b'
+    # This player colludes on even numbered rounds (first round is r.    choice = random.randint(1, 2)
+    if choice == "1":
+      return "c"
+    else: 
+      return "b"
+    de
     
