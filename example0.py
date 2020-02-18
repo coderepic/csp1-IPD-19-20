@@ -7,8 +7,8 @@
 ####
 
 team_name = 'MegaRcheat'
-strategy_name = 'Betray twice if betrayed''
-strategy_description ='ff we were betrayed, we will betray the opponent for the next two turns.''
+strategy_name = 'Betray twice if betrayed'
+strategy_description ='if we were betrayed, we will betray the opponent for the next two turns.'
     
 def move(my_history, their_history, my_score, their_score):
     '''Make my move based on the history with this player.
@@ -22,9 +22,15 @@ def move(my_history, their_history, my_score, their_score):
 '''
 
     def check_betray(their_history):
-      if their_history[their_history.len()] == 'b' or their_history[their_history.len() - 1] == 'b':
-        return "b"
+      if len(their_history) >= 2:
+        if their_history[len(their_history) - 1] == 'b' or their_history[len(their_history) - 2] == 'b':
+          return "b"
+      elif len(their_history) == 1:
+        if their_history[len(their_history) - 1] == 'b':
+          return "b"
+      else: 
+        return "c"
 
     check_betray(their_history)
-    return 'c'
+  
     

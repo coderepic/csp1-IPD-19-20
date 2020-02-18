@@ -22,7 +22,13 @@ def move(my_history, their_history, my_score, their_score):
     '''
           
     def check_collude(their_history):
-      if their_history[their_history.len()] == 'c' or their_history[their_history.len() - 1] == 'c':
-        return "b"
+      if len(their_history) >= 2:
+        if their_history[len(their_history) - 1] == 'c' or their_history[len(their_history) - 2] == 'c':
+          return "b"
+      elif len(their_history) == 1:
+        if their_history[len(their_history) - 1] == 'c':
+          return "b"
+      else: 
+        return "c"
     
     check_collude(their_history)
