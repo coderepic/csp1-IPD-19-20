@@ -17,16 +17,16 @@ Each column shows pts//round earned against each other player:
              P0     P1     P2     P3
 vs. P0 :      0   -250   -250   -250
 vs. P1 :   -250      0   -250   -250
-vs. P2 :   -250   -250      0   -200
-vs. P3 :   -250   -250    -84      0
-TOTAL  :   -750   -750   -584   -700
+vs. P2 :   -250   -250      0   -183
+vs. P3 :   -250   -250    -95      0
+TOTAL  :   -750   -750   -595   -683
 --------------------------------------------------------------------------------
 Section 2 - Leaderboard
 --------------------------------------------------------------------------------
 Average points per round:
 Team name (P#):  Score      with strategy name
-MegaRcheat(P2):       -146 points with Random                                  
-E3        (P3):       -175 points with Collude but retaliate                   
+MegaRcheat(P2):       -149 points with Random                                  
+E3        (P3):       -171 points with Collude but retaliate                   
 MegaRcheat(P0):       -188 points with Betray twice if betrayed                
 MegaRcheat(P1):       -188 points with Betray twice if colluded                
 --------------------------------------------------------------------------------
@@ -176,17 +176,17 @@ Section 3 - Game Data for Team MegaRcheat
                                                                                 
                                                                                 
 
-                                
-                                
+                                    
+                                    
 
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P0) "Betray twice if betrayed"
 -250 pt//ound: MegaRcheat(P2) "Random"
                                                                                 
-bbbcbcccbbbccbbcbcbbbcbbccbbcbccbccccccbbcccccbbcbccbcbbbbbbbccbcbbcbcccccccbcbc
+bcccbccbccccbbccbcbcbcbbcbccccbbbcbcbcbcccccbbbbccbbbbcccbbcccbcccbccbccbcccbcbc
 
-                                                                            
-bccccbbbbbbbccbbbbccccbbcbbbbbcccbbbcbbbcbbcbbcccbccccbbcbcbccbccccbbbccbbbb
+                                                          
+cbbcbbbccbcbccbbccccbbbccccbbcbbcbcbccbbcbbcbcbbbcccccbbcb
 
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P0) "Betray twice if betrayed"
@@ -194,8 +194,8 @@ bccccbbbbbbbccbbbbccccbbcbbbbbcccbbbcbbbcbbcbbcccbccccbbcbcbccbccccbbbccbbbb
                                                                                 
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
-                                                                               
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                      
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -209,17 +209,20 @@ Section 3 - Game Data for Team MegaRcheat
                                                                                 
                                                                                 
 
-                                
-                                
+                                    
+                                    
 
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P1) "Betray twice if colluded"
 -250 pt//ound: MegaRcheat(P2) "Random"
                                                                                 
-cbbccbbccbccbcbbcbcbccbccbbbbbcbbbccccbcbbccbbccbcbbbbcbbcccbbccbcccbbbcbbbccccc
+ccbbcccccbbcbbbbbbbbbbcccbcbcccbcbbbbcbbbcbbccbccbbbbbbccccccccbcbccbcccccccbcbb
 
-                                                          
-bbcbbbbccbbcccbcbcbbbcbccbbbcccccbcccbcbcbcbccbcccbccbbbcb
+                                                                                
+cccbccccbccccbbcbbbcbbbccccbbcbbccbbcccbbcbbccbbbcbcbcccbcbcbcbcbbbcccbccbbbbbcb
+
+    
+cbbb
 
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P1) "Betray twice if colluded"
@@ -227,8 +230,11 @@ bbcbbbbccbbcccbcbcbbbcbccbbbcccccbcccbcbcbcbccbcccbccbbbcb
                                                                                 
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
-                                 
-ccccccccccccccccccccccccccccccccc
+                                                                                
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+                                
+cccccccccccccccccccccccccccccccc
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -236,29 +242,32 @@ Section 3 - Game Data for Team MegaRcheat
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P2) "Random"
 -250 pt//ound: MegaRcheat(P0) "Betray twice if betrayed"
-bbbcbcccbbbccbbcbcbbbcbbccbbcbccbccccccbbcccccbbcbccbcbbbbbbbccbcbbcbcccccccbcbc
+bcccbccbccccbbccbcbcbcbbcbccccbbbcbcbcbcccccbbbbccbbbbcccbbcccbcccbccbccbcccbcbc
                                                                                 
 
-bccccbbbbbbbccbbbbccccbbcbbbbbcccbbbcbbbcbbcbbcccbccccbbcbcbccbccccbbbccbbbb
-                                                                            
+cbbcbbbccbcbccbbccccbbbccccbbcbbcbcbccbbcbbcbcbbbcccccbbcb
+                                                          
 
 --------------------------------------------------------------------------------
 -250 pt//round: MegaRcheat(P2) "Random"
 -250 pt//ound: MegaRcheat(P1) "Betray twice if colluded"
-cbbccbbccbccbcbbcbcbccbccbbbbbcbbbccccbcbbccbbccbcbbbbcbbcccbbccbcccbbbcbbbccccc
+ccbbcccccbbcbbbbbbbbbbcccbcbcccbcbbbbcbbbcbbccbccbbbbbbccccccccbcbccbcccccccbcbb
                                                                                 
 
-bbcbbbbccbbcccbcbcbbbcbccbbbcccccbcccbcbcbcbccbcccbccbbbcb
-                                                          
+cccbccccbccccbbcbbbcbbbccccbbcbbccbbcccbbcbbccbbbcbcbcccbcbcbcbcbbbcccbccbbbbbcb
+                                                                                
+
+cbbb
+    
 
 --------------------------------------------------------------------------------
--84 pt//round: MegaRcheat(P2) "Random"
--200 pt//ound: E3(P3) "Collude but retaliate"
-BcCBcCBcBbBbCCCCBcCBbCBbCBcCBcCBbCCCCBbBbCCBbCBcBbCBcCCCCCCCBbBbBcBcBbCBbBcCCBbB
-cBCcBCcBcbcbCCCCcBCcbCcbCcBCcBCcbCCCCcbcbCCcbCcBcbCcBCCCCCCCcbcbcBcBcbCcbcBCCcbc
+-95 pt//round: MegaRcheat(P2) "Random"
+-183 pt//ound: E3(P3) "Collude but retaliate"
+BbCBbCBcBbBcBcBcCCCBcBbCCBbBcCBcCBcBbCCBbCBcBbCCBcCCCCBcBbCBcBbBcCBcCBcBbBcCBbCC
+cbCcbCcBcbcBcBcBCCCcBcbCCcbcBCcBCcBcbCCcbCcBcbCCcBCCCCcBcbCcBcbcBCcBCcBcbcBCcbCC
 
-bBcCCBbBcBcCCCBcCCBbBbBcCCCCBcCBbCCCBcBbBbBbBbCBcBcCBcCBbBcBbCBbCBbCCCBbBbCB
-bcBCCcbcBcBCCCcBCCcbcbcBCCCCcBCcbCCCcBcbcbcbcbCcBcBCcBCcbcBcbCcbCcbCCCcbcbCc
+CCCCBcBbBcCCCCCBcCBcBcCCBbBbCBcCCBbCCBcBbCB
+CCCCcBcbcBCCCCCcBCcBcBCCcbcbCcBCCcbCCcBcbCc
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -269,8 +278,8 @@ Section 3 - Game Data for Team E3
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
                                                                                 
 
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-                                                                               
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                      
 
 --------------------------------------------------------------------------------
 -250 pt//round: E3(P3) "Collude but retaliate"
@@ -278,16 +287,19 @@ ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
                                                                                 
 
-ccccccccccccccccccccccccccccccccc
-                                 
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+                                                                                
+
+cccccccccccccccccccccccccccccccc
+                                
 
 --------------------------------------------------------------------------------
--200 pt//round: E3(P3) "Collude but retaliate"
--84 pt//ound: MegaRcheat(P2) "Random"
-cBCcBCcBcbcbCCCCcBCcbCcbCcBCcBCcbCCCCcbcbCCcbCcBcbCcBCCCCCCCcbcbcBcBcbCcbcBCCcbc
-BcCBcCBcBbBbCCCCBcCBbCBbCBcCBcCBbCCCCBbBbCCBbCBcBbCBcCCCCCCCBbBbBcBcBbCBbBcCCBbB
+-183 pt//round: E3(P3) "Collude but retaliate"
+-95 pt//ound: MegaRcheat(P2) "Random"
+cbCcbCcBcbcBcBcBCCCcBcbCCcbcBCcBCcBcbCCcbCcBcbCCcBCCCCcBcbCcBcbcBCcBCcBcbcBCcbCC
+BbCBbCBcBbBcBcBcCCCBcBbCCBbBcCBcCBcBbCCBbCBcBbCCBcCCCCBcBbCBcBbBcCBcCBcBbBcCBbCC
 
-bcBCCcbcBcBCCCcBCCcbcbcBCCCCcBCcbCCCcBcbcbcbcbCcBcBCcBCcbcBcbCcbCcbCCCcbcbCc
-bBcCCBbBcBcCCCBcCCBbBbBcCCCCBcCBbCCCBcBbBbBbBbCBcBcCBcCBbBcBbCBbCBbCCCBbBbCB
+CCCCcBcbcBCCCCCcBCcBcBCCcbcbCcBCCcbCCcBcbCc
+CCCCBcBbBcCCCCCBcCBcBcCCBbBbCBcCCBbCCBcBbCB
 
 --------------------------------------------------------------------------------

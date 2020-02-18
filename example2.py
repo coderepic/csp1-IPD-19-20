@@ -21,7 +21,7 @@ def move(my_history, their_history, my_score, their_score):
     
     Returns 'c' or 'b' for collude or betray.
     '''
-    # This player colludes on even numbered rounds (first round is r.    
+    # This code randomly generates the selection to collude or betray.    
     choice = random.randint(1, 2)
     if choice == 1:
       return "c"
